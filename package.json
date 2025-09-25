@@ -1,6 +1,6 @@
 {
-  "name": "sh3nnmine",
-  "version": "6.7.4",
+  "name": "WynzSta",
+  "version": "1.2.0",
   "description": "WhatsApp API",
   "keywords": [
     "whatsapp",
@@ -52,7 +52,7 @@
     "chalk": "^4.1.2",
     "futoin-hkdf": "^1.5.1",
     "libphonenumber-js": "^1.10.20",
-    "libsignal": "npm:@shennmine/libsignal-node",
+    "libsignal": "npm:@WynzSta/libsignal-node",
     "music-metadata": "^7.12.3",
     "node-cache": "^5.1.2",
     "pino": "^7.0.0",
